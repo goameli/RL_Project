@@ -1,4 +1,4 @@
-# Mountain Car Reward Shaping
+# Mountain Car Problem - Reward Shaping
 
 ## Project Description
 
